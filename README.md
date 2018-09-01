@@ -1,5 +1,7 @@
 # gen-flow-libdefs
 
+> WARNING: Highly experimental proof of concept!
+
 Automatically generate Flow libdefs from source code
 
 ## Why?
